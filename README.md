@@ -231,6 +231,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [mangakomi](https://mangakomi.com/)
 * [mangaplus](https://mangaplus.shueisha.co.jp/updates) Free, Official Source for Shounen Jump Series
 * [VizMedia](https://www.viz.com/shonenjump) Official Western/European Source for Shounen Jump Series (Latest 3 chapters of all series free)
+* [Mangareader.to](https://mangareader.to/home/)
 * [mangafreak.eu](https://mangafreak.eu/)
 * [mangahere.cc](https://mangahere.cc/)
 * [mangakakalot.com](https://mangakakalot.com/)
